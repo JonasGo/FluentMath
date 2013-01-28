@@ -18,6 +18,6 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 [http://projecteuler.net/problem=1]
 
 The function call should be simple too:
-FluentMath.SumOf(FluentMath.MultiplesOf(3).Or(5).Below(10))
+FluentMath.SumOf(FluentMath.MultiplesOf(3).Or(5).Below(1000))
 
 I'm still not completely happy with that, but it's a work in progress ;)
