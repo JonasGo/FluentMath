@@ -27,5 +27,7 @@ I'm still not completely happy with that, but it's a work in progress ;)
 
 ## What are the tools?
 Everything is developed test driven, test first. Right now only with unit tests.
-The language is C# with the .NET 4.5 Framework
+
+The language is C# with the .NET 4.5 Framework.
+
 I'm using Microsoft Visual Studio 2012 with ReSharper (can't live without that)
